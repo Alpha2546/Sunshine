@@ -1,0 +1,20 @@
+{
+  "context": "client",
+  "identifier": "nl.pa.Alpha.sunshine_mod",
+  "display_name": "Sunshine mod",
+  "description": "Adds better flares and sparkles to the sun,
+  "author": "Alpha2546, Killerkiwijuice",
+  "version": "1",
+  "build": "85423",
+  "date": "2015/08/09",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/alphas-particle-effect-workshop.68427/page-5",
+  "icon": "http://s4.postimg.org/3myvwg1wp/Sunshinethumb.jpg",
+  "category": [
+	  "in-game",
+	  "shader",
+	  "colours",
+	  "explosion"
+    ],
+  "priority": 100
+}
